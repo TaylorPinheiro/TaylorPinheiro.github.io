@@ -147,7 +147,7 @@ nav{
 
 /* ABOUT ME CSS*/
 .about-me {
-    height: 70vh !important;
+    height: 60vh !important;
     background-color: rgb(195, 212, 255) !important;
     padding: 20vh 50px 0 50px;
     column-count: 2; 
