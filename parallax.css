@@ -94,7 +94,7 @@ body {
       content:"";
       width: 100vw;
       height: 100vh;
-      background-image: url(portfolio-site-master/images/wallpaper.jpg);
+      background-image: url(/portfolio-site-master/images/Wallpaper.jpg);
       background-position: bottom center;
       background-size: cover;
       background-repeat: no-repeat;
