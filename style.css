@@ -150,7 +150,7 @@ nav{
     height: 50vh !important;
     background-color: rgb(195, 212, 255) !important;
     padding: 20vh 50px 0 50px;
-    column-count: 2;
+/*     column-count: 2; */
 }
 
 .about-me img{
